@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\Users\Admin\Desktop\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\Users\Admin\Desktop\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
+C:\Users\Admin\Desktop\Dialogs\Dialogs\obj\Debug\Dialogs.AddStudent.resources
